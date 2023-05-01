@@ -86,9 +86,6 @@
 							{tag "special"}
 						}
 					}
-					{bots
-						(include "bots_generic.inc")
-					}
 				}
 			}
 			{ranked}
