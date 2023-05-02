@@ -14,9 +14,9 @@
 {"m1_57mm"          ("vs" c(0) t(all cannon mediumcan) 	s(usa) n(2) g(c5) sc(11.25) b(v2) cw(2) cp(10)) {level 1} {cost 150} {fore 1.0}}
 {"m5"               ("vs" c(0) t(all cannon heavycan) 	s(usa) n(2) g(c6) sc(21.25) b(v2) cw(2) cp(15)) {level 1} {cost 250} {fore 1.0}}
 
-("how" side(usa) name(how_aa) c(0) c1(gmc_cckw) c2(bofors)  	t(all cannon heavycan heavyaa) g(c7) b(v2) level(3) cost(300) f(1.0))
-("how" side(usa) name(how_b) c(0) c1(gmc_cckw) c2(m2a1l) 		t(all artillery) g(c8) b(v2) level(6) cost(700) f(1.0))
-("how" side(usa) name(how_a) c(0) c1(gmc_cckw) c2(m114)  		t(all artillery heavyart) g(c9) b(v2) level(9) cost(950) f(1.0))
+("how" side(usa) name(how_aa) c(0) c1(gmc_cckw) c2(bofors)  t(all cannon heavycan heavyaa) g(c7) b(v2) level(3) cost(300) f(1.0))
+("how" side(usa) name(how_b) c(0) c1(gmc_cckw) c2(m2a1l) 	t(all artillery) g(c8) b(v2) level(6) cost(700) f(1.0))
+("how" side(usa) name(how_a) c(0) c1(gmc_cckw) c2(m114)  	t(all artillery heavyart) g(c9) b(v2) level(9) cost(950) f(1.0))
 
 {"m7"               ("v" c(0) t(all artillery) 			s(usa) n1(3) n2(1) g(c10) sc(37.50) b(v2) cw(0) cp(15)) {level 12} {cost 1000} {fore 1.0}}
 {"m12gmc"           ("v" c(0) t(all artillery heavyart) s(usa) n1(3) n2(1) g(c11) sc(45.00) b(v2) cw(0) cp(20)) {level 15} {cost 1500} {fore 1.0}}
