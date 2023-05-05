@@ -236,7 +236,7 @@ s(ger) n1(3) n2(1) g(d7) sc(15.00) b(v3) cw(0) cp(5))
 {"pz6bh" 
 	("v" c(0) t(all sheavy) s(ger) n1(4) n2(1) g(e8) sc(120.00) b(v4) cw(0) cp(40)) 
 	{level 15} 
-	{cost 2400} 
+	{cost 2800} 
 	{fore 1.0}
 }
 {"hetzer" 
@@ -278,7 +278,7 @@ s(ger) n1(3) n2(1) g(d7) sc(15.00) b(v3) cw(0) cp(5))
 
 {"jagdtiger" ("v" c(0) t(all sheavy arcade) s(ger) n1(3) n2(1) g(f7) sc(110.00) b(v5) cw(0) cp(40)) 
 {level 1} 
-{cost 2900} 
+{cost 3500} 
 {fore 1.0}
 }
 
