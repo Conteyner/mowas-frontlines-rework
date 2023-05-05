@@ -43,7 +43,7 @@
 							{resource
 								{start 		5000}
 								{finish 	5000}
-								{speed 		700}
+								{speed 		800}
 								{period 	200}
 							} 
 							{buttons "squad1 squad2 v1 v2 v3 v4 v5"} 
