@@ -32,8 +32,8 @@
 			{teams
 				{a	
 					{commandPoints "*=180"}
-					{unitLimits "flamer=3;sniper=2;officer=1;heavyaa=1;artillery=5"}
-					{balancingFactorBonus {cp 3.0} {mp 3.5} }
+					{unitLimits "flamer=4;sniper=2;officer=1;heavyaa=1;artillery=5"}
+					{balancingFactorBonus {cp 3.0} {mp 3.7} }
 					{chargeFactors 
 						{value "hero=0.90;engineers=0.50;*=1.0;"}
 					}
@@ -62,7 +62,7 @@
 				}
 				{b
 					{commandPoints "*=140"}
-					{unitLimits "flamer=3;sniper=3;officer=1;heavyaa=1;artillery=3"}
+					{unitLimits "flamer=2;sniper=3;officer=1;heavyaa=1;artillery=3"}
 					{balancingFactorBonus {cp 3.0} {mp 3.0} }
 					{chargeFactors 
 						{value "hero=1.00;engineers=0.50;*=1.0;"}
