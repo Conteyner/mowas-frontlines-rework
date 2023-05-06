@@ -1,7 +1,7 @@
 {from "pattern throwable"
 	{tag "smallitemin1hand" "grenade" "dynamite"}
 	{special
-		{PrepareTime 5.5} $ было 7.0 $
+		{PrepareTime 5.5}
 		{PrepareCursor "grenade"}
 		{mode detonate}
 	}
