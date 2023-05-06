@@ -1,7 +1,7 @@
 {from "pattern throwable"
 	{tag "fg"}
 	{special
-		{PrepareTime 4.5}
+		{PrepareTime 4.0} 
 		{PrepareCursor "grenade"}
 		{mode detonate}
 	}
